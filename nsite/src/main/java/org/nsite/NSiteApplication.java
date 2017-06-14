@@ -4,11 +4,11 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NsiteApplication {
+public class NSiteApplication {
 	
-	protected NsiteApplication(){}
+	protected NSiteApplication(){}
 
 	public static void main(String[] args) {
-		SpringApplication.run(NsiteApplication.class, args);
+		SpringApplication.run(NSiteApplication.class, args);
 	}
 }
