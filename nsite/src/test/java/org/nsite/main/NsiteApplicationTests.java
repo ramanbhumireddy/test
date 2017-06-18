@@ -18,7 +18,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
 public class NsiteApplicationTests {
 
-	
+	//http://websystique.com/spring-boot/spring-boot-angularjs-spring-data-jpa-crud-app-example/
 	@Autowired
 	private TestRestTemplate restTemplate;
 	
