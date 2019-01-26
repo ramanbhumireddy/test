@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: appdocker
+Implementation-Version: 0.1
+Built-By: 136634
+Implementation-Vendor-Id: org.appdocker
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/appdocker/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
